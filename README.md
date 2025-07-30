@@ -12,7 +12,7 @@ for each q, i put:
 - what it’s about + link  
 - how i thought about it  
 - quick logic breakdown  
-- code (java/python/whatever)  
+- code (java/cpp/c/js/whatever)  
 - what i learned or bugs i hit
 
 ---
