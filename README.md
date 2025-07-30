@@ -1,4 +1,4 @@
-# leetcode grind
+# leetcode grind 📝
 
 this repo’s where i dump all the leetcode qs i solve  
 just my logic, approach, and code 
